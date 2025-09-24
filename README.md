@@ -100,4 +100,4 @@ Finally, in your browser, type the following code to access your project dashboa
 ### Related Articles
 
 * **[Church Management System Project in Django with Source Code](https://itsourcecode.com/free-projects/python-projects/church-management-system-project-in-django-with-source-code/)**
-* * **[Baptism Information Management System in PHP](https://itsourcecode.com/free-projects/php-project/baptism-information-management-system-version-1-0-0-1/)**
+* **[Baptism Information Management System in PHP](https://itsourcecode.com/free-projects/php-project/baptism-information-management-system-version-1-0-0-1/)**
